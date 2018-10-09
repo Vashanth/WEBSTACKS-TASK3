@@ -1,0 +1,39 @@
+h4
+{
+	color: lightblue;
+}
+
+.vash
+{
+margin-top: 40px;
+margin-left: 100px;
+margin-right: 100px;
+}
+.left11
+{	text-align: center;
+	color:black;
+	font-family: Times  New Roman;
+	background-image: linear-gradient(to right,gold,#f9f981,gold)
+
+}
+
+.card
+{
+background-color: red;
+}
+
+.right11
+{
+	text-align: center;
+	color:black;
+	font-family: Times  New Roman;
+    background-image: linear-gradient(to right,#686862,#c6c6c2,#686862)
+}
+
+.center11
+{
+	text-align: center;
+	color:black;
+	font-family: Times  New Roman;
+    background-image: linear-gradient(to right,#8B4513,#DEB887,#8B4513)
+}

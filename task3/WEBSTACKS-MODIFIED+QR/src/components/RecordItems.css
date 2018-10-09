@@ -1,0 +1,221 @@
+.img-fluid.toppers
+{
+    max-width: 50% !important;
+    margin-top: 30px;
+}
+.img-fluid.others
+{
+    max-width: 20% !important;
+}
+.img-fluid.view
+{
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+.cardTitle
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.vash
+{
+background-color: red;
+}
+.hr
+{
+    width: 40%;
+    border-width: 8px;
+    border-color: #4297d0;
+}
+.hr.view
+{
+    width: 20%;
+    border-width: 8px;
+    border-color: #4297d0;
+}
+.cardPoint
+{
+    font-weight: bold;
+    font-size: 140%;
+}
+.buttonView
+{
+    color: rgb(95, 5, 5)!important;
+    text-decoration: none!important;
+}
+.otherRow
+{
+    margin-top: 30px;
+
+}
+
+#\30
+{
+background-image: linear-gradient(to right,gold,#f9f981,gold)
+}
+
+#\31
+{
+    background-image: linear-gradient(to right,#686862,#c6c6c2,#686862)
+}
+
+
+#\32
+{
+    background-image: linear-gradient(to right,#8B4513,#DEB887,#8B4513)
+
+}
+
+#bor
+{
+    background-image: linear-gradient(#ace0ca,#76b7ed,#a0e3ef)
+
+}
+
+
+.th {
+vertical-align: middle!important;
+}
+.td, .th {
+border: none!important;
+    font-weight: 500;
+    color: #3a1615;
+    text-align: left;
+    vertical-align: middle!important;
+}
+tr:nth-child(5n+1)
+{
+    background-color: #abacad!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+tr:nth-child(5n+1)
+{
+    background-color: #e0e248!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+
+tr:nth-child(5n+2)
+{
+    background-color: #8edbad!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+
+tr:nth-child(5n+3)
+{
+    background-color: #a570ef!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+
+tr:nth-child(5n+4)
+{
+    background-color: #e88b2e!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+tr:nth-child(5n+0)
+{
+    background-color: lightgray!important;
+    border-bottom: 1px solid #f3f3f3!important;
+}
+
+.row
+{
+     background-image: linear-gradient(#a2f2eb, #ddddd4,#eafca9);
+
+}
+.cardNumber
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sizeClass
+{
+    background-color: white!important;
+    padding: 30px;
+    box-shadow: 10px 10px 8px #888888;
+ 
+
+}
+.buttonTags
+{
+    background-color: #f3f3f3!important;
+    margin: 10px;
+    color: #4297d0!important;
+}
+
+.topList
+{
+    background-color:#a2f2eb;
+
+}
+.Social
+{
+    background-color: transparent!important;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+.search
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h5
+{
+    margin-top: 10px;
+    text-align: left;
+}
+.teamId
+{
+    font-size: 70%;
+}
+
+.row
+{
+    font-family: 'Karla', sans-serif;
+}
+
+.qrvash
+{
+    padding-left: 170px;
+}
+
+.viewAlone
+{
+    background-color: #f46242;
+}
+
+.viewAlone2
+{
+    background-image: linear-gradient(#918e8e,#b1d3c7,#918e8e)
+}

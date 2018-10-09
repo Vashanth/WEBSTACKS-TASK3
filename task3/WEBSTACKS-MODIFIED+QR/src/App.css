@@ -1,0 +1,28 @@
+
+.nav-link{
+    color: black;
+}
+
+
+a{
+    text-decoration: none!important;
+    color: #000!important;
+    font-family: 'Karla', sans-serif!important;
+}
+.nav-link{
+    cursor: pointer!important;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #d7f2f1;
+}
+.card.main
+{
+    border: none!important;
+    background-image: linear-gradient(#b0f4dc,#d0ede3)
+}
+
+.card-body
+{
+    background-color: gold;
+}
+

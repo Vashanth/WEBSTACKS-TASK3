@@ -1,0 +1,26 @@
+.toppers
+{
+    height: 150px!important;
+}
+.cardTitle
+{
+    text-transform: UPPERCASE;
+}
+.column
+{
+    padding: 0;
+}
+.rowclass
+{
+    padding: 5%;
+    background-color: #f3f3f3;
+}
+.qrs
+{
+    padding-left: 580px; 
+}
+
+.dons
+{
+    background-color: #f2554d
+}
