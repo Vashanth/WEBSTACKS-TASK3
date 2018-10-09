@@ -1,3 +1,16 @@
+## Leaderboard UI
+
+## COMPARE
+* In the leaderbaord which was not done with React, that page was coded using html,php,js and css.
+* I have used array concepts in React where i store an array of objects containing the details of the persons in Leaderboard, then i used method calling and linked various pages in  React through the different js files inside a newly created folder componenets.
+* From the start the whole page was coded by me
+* In React we have to create classes for various components of a page like navigation bar, cards, tables etc, we can export these classes and import in the App.js file in src and use it there
+* In the previous task 2 Leaderboard we can easily connect between pages, but in react we have to use Route
+* i used various css files to  improve the look and feel of the page 
+* cards.js contains cards of first 3 in the list and navbar.js is for navigation bar
+* projects.js  acts as a bridge between App.js and ProjectItems.js and in this file person by person retrieved from array in App.js and displayed in the screen and for each js file css file is added.
+* The main difference between task 2 and task 3 is that task 2 will contain more lines of codes for expressing a functionality, but for the same function in Reactjs the number of lines is reduced and is structured
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
